@@ -1,0 +1,7 @@
+__pycache__/
+*.npz
+*.h5
+*.tflite
+model/
+.env
+.ipynb_checkpoints/
