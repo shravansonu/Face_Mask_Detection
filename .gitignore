@@ -1,7 +1,12 @@
-__pycache__/
+# Ignore datasets
+data/images/
+data/annotations/
 *.npz
+
+# Ignore models
+model/
 *.h5
 *.tflite
-model/
-.env
-.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
